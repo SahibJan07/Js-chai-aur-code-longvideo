@@ -23,6 +23,27 @@ let stringNumber = String(someNumber);
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
-let gameCounter = 100;
-gameCounter++;
-console.log(gameCounter);
+//
+//gameCounter++;
+// console.log(gameCounter);
+
+// console.log("2" > 1);
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0); { that is because an equity check and comparisons work differently, comparison convert null to a number treating it as against 0}
+
+// {===} it its called strict check checks value and data type 
+
+
+// ***********************************************************************
+// console.log("2" > 1);
+//  console.log(null > 0);
+//  console.log(null == 0);
+//  console.log(null >= 0)
+
+//  console.log(undefined > 0);
+//  console.log(undefined == 0);
+//  console.log(undefined >= 0)
+
+// {we should always avoid the aboe way of code because this way we can alot pf problems on the program and also this is not clean code}
+console.log("2" === 2); // checked data type and value result false 
