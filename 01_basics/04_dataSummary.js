@@ -24,3 +24,11 @@ const scoreValue = 100.00
 // const anotherId = Symbol('123')
 // console.log(id === anotherId);
 // {this returned false because Symbol makes every variable as unique value}
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//there are 2 types of memory 
+// stack , and Heap 
+// stack memory mn {primitive} data types save hoty hain 
+// heap memory mn {non primitive} data types save hoty hain
+
